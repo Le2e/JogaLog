@@ -1,2 +1,3 @@
+include ':JogaLog'
 include ':app'
 rootProject.name = "My Application"
